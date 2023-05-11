@@ -9,4 +9,4 @@ The application was developed using Java and LibGDX framework.
 
 ## Features 
 
-The game has only one level. The spaceship can be moved using WASD keys and with SPACE key the player can shoot at the enemies. If the spaceship torches the enemies the game is lost.
+The game has one level. The spaceship can be moved using WASD keys and with SPACE key the player can shoot at the enemies. If the spaceship torches the enemies the game is lost.
